@@ -6,6 +6,9 @@ Browser-based neon racing game prototype being developed for the Handshake AI Sk
 
 ![Blackout Dash Gameplay](blackout-dash-gameplay.png)
 
+## Live Demo
+
+[Play Blackout Dash](https://duttabipul.github.io/blackout-dash/)
 ## Current Features
 
 - Neon-style browser racing experience
